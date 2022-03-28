@@ -1380,7 +1380,7 @@ exports[`card demos 📸 renders ./packages/card/src/components/CheckCard/demos/
         </div>
       </div>
     </div>
-     
+
     <br />
     <div
       class="ant-pro-checkcard-group"
@@ -7468,7 +7468,7 @@ exports[`card demos 📸 renders ./packages/card/src/demos/collapsible.tsx corre
     </div>
   </div>
   <div
-    class="ant-pro-card ant-pro-card-collapse"
+    class="ant-pro-card"
     style="margin-top: 16px;"
   >
     <div
@@ -7478,7 +7478,7 @@ exports[`card demos 📸 renders ./packages/card/src/demos/collapsible.tsx corre
         class="ant-pro-card-title"
       >
         <span>
-          收起 - 
+          收起 -
         </span>
         可折叠-图标自定义
       </div>
